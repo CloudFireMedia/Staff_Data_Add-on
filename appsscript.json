@@ -4,7 +4,7 @@
     "libraries": [{
       "userSymbol": "StaffData",
       "libraryId": "1jhCBzA1gtbXWRqs0oNyaCUW_gnEdCIEi38qJ8P2JUaKDLSjktcUboh1z",
-      "version": "8"
+      "version": "9"
     }]
   },
   "exceptionLogging": "STACKDRIVER"

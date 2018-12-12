@@ -1,5 +1,5 @@
 var SCRIPT_NAME = 'Staff_Data_Add-on'
-var SCRIPT_VERSION = 'v0.22'
+var SCRIPT_VERSION = 'v0.23'
 
 // Add-on installation
 
